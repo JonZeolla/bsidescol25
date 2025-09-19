@@ -1,0 +1,27 @@
+{
+  "name": "default-agent",
+  "version": "1.0.0",
+  "description": "Agent configuration",
+  "mcpServers": {
+    "zenable": {
+      "disabled": false,
+      "command": "npx",
+      "args": [
+        "-y",
+        "--",
+        "mcp-remote",
+        "https://mcp.www.zenable.app/"
+      ],
+      "timeout": 5000
+    }
+  },
+  "tools": [
+    "@zenable"
+  ],
+  "allowedTools": [
+    "@zenable/conformance_check"
+  ],
+  "toolsSettings": {},
+  "includedFiles": [],
+  "resources": []
+}

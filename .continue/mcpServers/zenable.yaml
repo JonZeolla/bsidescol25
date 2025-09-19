@@ -1,0 +1,7 @@
+name: Zenable
+version: 2.6.0
+schema: v1
+mcpServers:
+- type: http
+  url: https://mcp.www.zenable.app/
+  name: Zenable
