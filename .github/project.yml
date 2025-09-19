@@ -1,0 +1,25 @@
+description: A brief description of the project
+name: bsidescol25
+origin:
+  generated: true
+  template:
+    branch: main
+    commit hash: a3959efa1d49fcaeebee35857abcc6f0fea7f839
+    cookiecutter:
+      _checkout: null
+      _repo_dir: /Users/jonzeolla/.cookiecutters/ai-native-python
+      _template: gh:zenable-io/ai-native-python
+      company_domain: jonzeolla.com
+      company_name: jonzeolla
+      dockerhub: 'yes'
+      github_org: jonzeolla
+      license: MIT
+      project_name: bsidescol25
+      project_owner_github_username: jonzeolla
+      project_short_description: A brief description of the project
+      project_slug: bsidescol25
+      public: 'yes'
+      python_version: '3.13'
+    dirty: false
+    location: https://github.com/zenable-io/ai-native-python.git
+  timestamp: '2025-09-19T17:52:12+00:00'

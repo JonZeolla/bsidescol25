@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "zenable": {
+      "disabled": false,
+      "alwaysAllow": [
+        "conformance_check"
+      ],
+      "command": "npx",
+      "args": [
+        "-y",
+        "--",
+        "mcp-remote",
+        "https://mcp.www.zenable.app/"
+      ]
+    }
+  }
+}

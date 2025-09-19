@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "zenable": {
+      "trust": true,
+      "type": "http",
+      "httpUrl": "https://mcp.www.zenable.app/",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
