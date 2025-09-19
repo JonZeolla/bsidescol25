@@ -1,6 +1,6 @@
 [project]
 name = "bsidescol25"
-version = "0.0.0"
+version = "0.1.0"
 description = "Let\\'s vibe 🚀"
 authors = [
     { name = "jonzeolla", email = "Python@jonzeolla.com" }
